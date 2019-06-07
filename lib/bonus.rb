@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  hero[status] = "dead"
+  epic_tragedy => hero["status"] = "dead"
   heroine[status] = "dead"
 
   
